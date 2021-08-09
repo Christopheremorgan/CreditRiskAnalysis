@@ -20,7 +20,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 ### Balanced Random Forest Classifier
 
-### Easy Ensemble Classifier
+### Easy Ensemble Adaboost Classifier
 
 
 ## Summary: 
