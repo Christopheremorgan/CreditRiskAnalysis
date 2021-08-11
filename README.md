@@ -15,27 +15,23 @@ Below we compare the balanced accuracy scores and the precision and recall score
 - high credit risk precision score: 0.01
 - high credit risk recall score: 0.72
 
-[insert confusion matrix]
-[insert imabalance classification report]
-
+![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/ros_cm.png)
+![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/eeabc_icr.png)
 
 ### SMOTE Oversampling
 - balanced accuracy score: 0.66
 - high credit risk precision score: 0.01
 - high credit risk recall score: 0.64
 
-[insert confusion matrix]
-[insert imabalance classification report]
-
+![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/smote_cm.png)
+![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/smote_icr.png)
 
 ### Cluster Centroid Resampling
 - balanced accuracy score: 0.54
 - high credit risk precision score: 0.01
 - high credit risk recall score: 0.69
 
-[insert confusion matrix]
-[insert imabalance classification report]
-
+![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/cc_cm.png)![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/cc_icr.png)
 
 ### SMOTEENN Combinatorial Resampling
 - balanced accuracy score: 0.67
@@ -44,30 +40,28 @@ Below we compare the balanced accuracy scores and the precision and recall score
 
 [insert confusion matrix]
 [insert imabalance classification report]
-
+![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/smoteenn_cm.png)![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/smoteenn_icr.png)
 
 ### Balanced Random Forest Classifier
 - balanced accuracy score: 0.77
 - high credit risk precision score: 0.03
 - high credit risk recall score: 0.68
 
-[insert confusion matrix]
-[insert imabalance classification report]
-
+![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/brf_cm.png)![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/brf_icr.png)
 
 ### Easy Ensemble Adaboost Classifier
 - balanced accuracy score: 0.93
 - high credit risk precision score: 0.09
 - high credit risk recall score: 0.92
 
-[insert confusion matrix]
-[insert imabalance classification report]
-
+![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/eeabc_cm.png)![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/eeabc_icr.png)
 
 ## Summary: 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
 ## Code Files
-credit_risk_resampling.ipynb
-credit_risk_ensemble.ipynb
+[credit_risk_resampling.ipynb](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/credit_risk_resampling.ipynb)
+
+[credit_risk_ensemble.ipynb](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/credit_risk_ensemble.ipynb)
+
 
