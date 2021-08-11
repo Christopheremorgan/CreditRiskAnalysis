@@ -8,19 +8,60 @@ Credit risk is an inherently unbalanced classification problem where good loans 
 To reduce bias, the BalancedRandomForestClassifier and EasyEnsembleClassifier machine learning models were used to predict credit risk.  The models are compared the performance of each are evaluated.
 
 ## Results: 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+Below we compare the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 ### Naive Random Oversampling
+- balanced accuracy score: 0.65
+- high credit risk precision score: 0.01
+- high credit risk recall score: 0.72
+
+[insert confusion matrix]
+[insert imabalance classification report]
+
 
 ### SMOTE Oversampling
+- balanced accuracy score: 0.66
+- high credit risk precision score: 0.01
+- high credit risk recall score: 0.64
+
+[insert confusion matrix]
+[insert imabalance classification report]
+
 
 ### Cluster Centroid Resampling
+- balanced accuracy score: 0.54
+- high credit risk precision score: 0.01
+- high credit risk recall score: 0.69
+
+[insert confusion matrix]
+[insert imabalance classification report]
+
 
 ### SMOTEENN Combinatorial Resampling
+- balanced accuracy score: 0.67
+- high credit risk precision score: 0.01
+- high credit risk recall score: 0.76
+
+[insert confusion matrix]
+[insert imabalance classification report]
+
 
 ### Balanced Random Forest Classifier
+- balanced accuracy score: 0.77
+- high credit risk precision score: 0.03
+- high credit risk recall score: 0.68
+
+[insert confusion matrix]
+[insert imabalance classification report]
+
 
 ### Easy Ensemble Adaboost Classifier
+- balanced accuracy score: 0.93
+- high credit risk precision score: 0.09
+- high credit risk recall score: 0.92
+
+[insert confusion matrix]
+[insert imabalance classification report]
 
 
 ## Summary: 
