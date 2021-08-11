@@ -16,7 +16,7 @@ Below we compare the balanced accuracy scores and the precision and recall score
 - high credit risk recall score: 0.72
 
 ![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/ros_cm.png)
-![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/eeabc_icr.png)
+![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/ros_icr.png)
 
 ### SMOTE Oversampling
 - balanced accuracy score: 0.66
