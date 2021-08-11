@@ -54,7 +54,7 @@ Below we compare the balanced accuracy scores and the precision and recall score
 - high credit risk precision score: 0.09
 - high credit risk recall score: 0.92
 
-![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/eeabc_cm.png)![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/eeabc_icr.png)
+![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/eeabc_cm.png)![image_name](https://github.com/Christopheremorgan/CreditRiskAnalysis/blob/main/resources/eeeabc_icr.png)
 
 ## Summary: 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
